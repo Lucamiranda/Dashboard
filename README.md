@@ -1,5 +1,5 @@
 # Dashboard
-Protótipo dashboard FCERTA
+Protótipo dashboard
 
 # Sobre o Projeto
 
